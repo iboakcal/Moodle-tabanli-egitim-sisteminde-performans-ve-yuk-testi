@@ -14,6 +14,9 @@ Bu proje, **Bilecik Şeyh Edebali Üniversitesi** kapsamında hazırlanmış bir
 - ✅ **Apache JMeter** (Performans testi ve yük simülasyon aracı)  
 - ✅ **PHP / MySQL / Apache** (Web sunucusu altyapısı)  
 - ✅ **CSV** (Toplu kullanıcı ve kurs verisi yükleme)
+  
+> 🖥 Bu projede kullanılan ana dil: **PHP (Moodle kurulumu)**  
+> 🧪 Test Aracı: **Apache JMeter (Java tabanlı)**
 
 ## 🧪 Uygulanan Testler
 
