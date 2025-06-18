@@ -55,8 +55,8 @@ Bu proje, **Bilecik Şeyh Edebali Üniversitesi** kapsamında hazırlanmış bir
 
 ## 👨‍💻 Hazırlayanlar
 
-- **İbrahim Akçal** – 11203786592  
-- **Enes Baş** – 10124322308
+- **İbrahim Akçal**   
+- **Enes Baş** 
 
 ## 🔗 Kaynaklar
 
